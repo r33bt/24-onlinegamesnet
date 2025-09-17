@@ -1,0 +1,594 @@
+{
+  "quick": [
+    {
+      "id": "2048",
+      "title": "2048",
+      "url": "https://play2048.co/",
+      "description": "Addictive number puzzle - merge tiles to reach 2048!",
+      "time": "5-15 min",
+      "rating": 5,
+      "icon": "🔢"
+    },
+    {
+      "id": "snake",
+      "title": "Google Snake",
+      "url": "https://www.google.com/fbx?fbx=snake_arcade",
+      "description": "Classic snake game with modern graphics",
+      "time": "2-10 min", 
+      "rating": 4,
+      "icon": "🐍"
+    },
+    {
+      "id": "tetris",
+      "title": "Tetris",
+      "url": "https://tetris.com/play-tetris",
+      "description": "The legendary block-stacking puzzle game",
+      "time": "5-30 min",
+      "rating": 5,
+      "icon": "🧩"
+    },
+    {
+      "id": "cookie-clicker",
+      "title": "Cookie Clicker",
+      "url": "https://orteil.dashnet.org/cookieclicker/",
+      "description": "Click cookies, buy upgrades, become cookie empire!",
+      "time": "5 min-∞",
+      "rating": 4,
+      "icon": "🍪"
+    },
+    {
+      "id": "flappy-bird",
+      "title": "Flappy Bird",
+      "url": "https://flappybird.io/",
+      "description": "Tap to fly through pipes - simple yet impossible!",
+      "time": "2-5 min",
+      "rating": 3,
+      "icon": "🐦"
+    },
+    {
+      "id": "dino-game",
+      "title": "Chrome Dino",
+      "url": "https://chromedino.com/",
+      "description": "The famous offline Chrome dinosaur jumping game",
+      "time": "2-10 min",
+      "rating": 4,
+      "icon": "🦕"
+    },
+    {
+      "id": "pac-man",
+      "title": "Pac-Man",
+      "url": "https://www.google.com/doodles/30th-anniversary-of-pac-man",
+      "description": "The original dot-eating arcade legend",
+      "time": "5-15 min",
+      "rating": 5,
+      "icon": "👻"
+    },
+    {
+      "id": "bubble-shooter",
+      "title": "Bubble Shooter",
+      "url": "https://bubble-shooter.co/",
+      "description": "Match 3 or more bubbles to clear the board",
+      "time": "5-20 min",
+      "rating": 4,
+      "icon": "🫧"
+    }
+  ],
+  "puzzle": [
+    {
+      "id": "wordle",
+      "title": "Wordle", 
+      "url": "https://www.nytimes.com/games/wordle/index.html",
+      "description": "Daily word puzzle that took the world by storm",
+      "time": "5-15 min",
+      "rating": 5,
+      "icon": "📝"
+    },
+    {
+      "id": "sudoku",
+      "title": "Sudoku",
+      "url": "https://sudoku.com/",
+      "description": "Number logic puzzles from easy to expert",
+      "time": "10-60 min",
+      "rating": 4,
+      "icon": "🔢"
+    },
+    {
+      "id": "crossword",
+      "title": "Daily Crossword",
+      "url": "https://www.washingtonpost.com/crossword-puzzles/daily/",
+      "description": "Classic word crossword puzzles",
+      "time": "15-45 min",
+      "rating": 4,
+      "icon": "📰"
+    },
+    {
+      "id": "jigsaw",
+      "title": "Jigsaw Puzzles",
+      "url": "https://www.jigsawpuzzles.io/",
+      "description": "Beautiful picture puzzles from 12 to 1000 pieces",
+      "time": "10-120 min",
+      "rating": 4,
+      "icon": "🧩"
+    },
+    {
+      "id": "solitaire",
+      "title": "Solitaire",
+      "url": "https://solitaired.com/",
+      "description": "Classic card game - Klondike solitaire",
+      "time": "5-20 min",
+      "rating": 4,
+      "icon": "♠️"
+    },
+    {
+      "id": "mahjong",
+      "title": "Mahjong",
+      "url": "https://mahjong.org/",
+      "description": "Traditional tile-matching puzzle game",
+      "time": "10-30 min",
+      "rating": 4,
+      "icon": "🀄"
+    },
+    {
+      "id": "word-cookies",
+      "title": "Word Cookies",
+      "url": "https://wordcookies.org/",
+      "description": "Find hidden words from jumbled letters",
+      "time": "5-25 min",
+      "rating": 4,
+      "icon": "🍪"
+    },
+    {
+      "id": "connect-4",
+      "title": "Connect 4",
+      "url": "https://connect4.gamesolver.org/",
+      "description": "Drop discs and get 4 in a row to win",
+      "time": "5-15 min",
+      "rating": 4,
+      "icon": "🔴"
+    }
+  ],
+  "action": [
+    {
+      "id": "slither-io",
+      "title": "Slither.io",
+      "url": "https://slither.io/",
+      "description": "Multiplayer snake battle - grow and survive!",
+      "time": "10-60 min",
+      "rating": 5,
+      "icon": "🐍"
+    },
+    {
+      "id": "agar-io", 
+      "title": "Agar.io",
+      "url": "https://agar.io/",
+      "description": "Eat cells, avoid bigger players, dominate!",
+      "time": "10-45 min",
+      "rating": 4,
+      "icon": "⚫"
+    },
+    {
+      "id": "paper-io",
+      "title": "Paper.io",
+      "url": "https://paper-io.com/",
+      "description": "Claim territory by drawing lines - watch your tail!",
+      "time": "5-30 min",
+      "rating": 4,
+      "icon": "📄"
+    },
+    {
+      "id": "shell-shockers",
+      "title": "Shell Shockers",
+      "url": "https://shellshock.io/",
+      "description": "Egg-based FPS shooter - crack your enemies!",
+      "time": "15-60 min",
+      "rating": 4,
+      "icon": "🥚"
+    },
+    {
+      "id": "krunker-io",
+      "title": "Krunker.io",
+      "url": "https://krunker.io/",
+      "description": "Fast-paced browser FPS with pixelated graphics",
+      "time": "20-120 min",
+      "rating": 4,
+      "icon": "🔫"
+    },
+    {
+      "id": "zombs-royale",
+      "title": "ZombsRoyale.io",
+      "url": "https://zombsroyale.io/",
+      "description": "Battle royale game - be the last one standing!",
+      "time": "15-30 min",
+      "rating": 4,
+      "icon": "👑"
+    },
+    {
+      "id": "surviv-io",
+      "title": "Surviv.io",
+      "url": "https://surviv.io/",
+      "description": "2D battle royale survival shooter",
+      "time": "10-20 min",
+      "rating": 4,
+      "icon": "🎯"
+    },
+    {
+      "id": "moomoo-io",
+      "title": "MooMoo.io",
+      "url": "https://moomoo.io/",
+      "description": "Build and defend your village in this survival game",
+      "time": "20-60 min",
+      "rating": 4,
+      "icon": "🏘️"
+    }
+  ],
+  "racing": [
+    {
+      "id": "drift-hunters",
+      "title": "Drift Hunters",
+      "url": "https://www.crazygames.com/game/drift-hunters",
+      "description": "Master the art of drifting with realistic physics",
+      "time": "15-60 min",
+      "rating": 5,
+      "icon": "🏎️"
+    },
+    {
+      "id": "moto-x3m",
+      "title": "Moto X3M",
+      "url": "https://motox3m.co/",
+      "description": "Extreme motorbike racing with crazy stunts",
+      "time": "10-30 min",
+      "rating": 4,
+      "icon": "🏍️"
+    },
+    {
+      "id": "hill-climb-racing",
+      "title": "Hill Climb Racing",
+      "url": "https://www.crazygames.com/game/hill-climb-racing",
+      "description": "Physics-based driving in extreme terrains",
+      "time": "10-45 min",
+      "rating": 4,
+      "icon": "🚙"
+    },
+    {
+      "id": "basketball-stars",
+      "title": "Basketball Stars",
+      "url": "https://www.crazygames.com/game/basketball-stars",
+      "description": "1v1 basketball showdowns with special moves",
+      "time": "5-20 min",
+      "rating": 4,
+      "icon": "🏀"
+    },
+    {
+      "id": "soccer-physics",
+      "title": "Soccer Physics",
+      "url": "https://www.crazygames.com/game/soccer-physics",
+      "description": "Hilarious physics-based soccer mayhem",
+      "time": "5-15 min",
+      "rating": 4,
+      "icon": "⚽"
+    },
+    {
+      "id": "tunnel-rush",
+      "title": "Tunnel Rush",
+      "url": "https://www.crazygames.com/game/tunnel-rush",
+      "description": "High-speed obstacle dodging in neon tunnels",
+      "time": "5-20 min",
+      "rating": 4,
+      "icon": "🌈"
+    },
+    {
+      "id": "slope",
+      "title": "Slope",
+      "url": "https://slope-game.github.io/",
+      "description": "Control a ball rolling down a steep slope",
+      "time": "3-15 min",
+      "rating": 4,
+      "icon": "🎱"
+    },
+    {
+      "id": "rocket-league",
+      "title": "Rocket Soccer Derby",
+      "url": "https://www.crazygames.com/game/rocket-soccer-derby",
+      "description": "Cars meet soccer in this explosive sports game",
+      "time": "10-25 min",
+      "rating": 4,
+      "icon": "🚗"
+    }
+  ],
+  "strategy": [
+    {
+      "id": "bloons-td",
+      "title": "Bloons TD 6",
+      "url": "https://www.crazygames.com/game/bloons-tower-defense-4",
+      "description": "Pop balloons with strategic tower placement",
+      "time": "20-90 min",
+      "rating": 5,
+      "icon": "🎈"
+    },
+    {
+      "id": "kingdom-rush",
+      "title": "Kingdom Rush",
+      "url": "https://www.crazygames.com/game/kingdom-rush",
+      "description": "Epic fantasy tower defense with heroes",
+      "time": "30-120 min",
+      "rating": 5,
+      "icon": "🏰"
+    },
+    {
+      "id": "chess-com",
+      "title": "Chess.com",
+      "url": "https://www.chess.com/play",
+      "description": "Play chess against AI or other players",
+      "time": "10-60 min",
+      "rating": 5,
+      "icon": "♟️"
+    },
+    {
+      "id": "civilization",
+      "title": "Freeciv",
+      "url": "https://www.freecivweb.org/",
+      "description": "Build civilizations and conquer the world",
+      "time": "60-300 min",
+      "rating": 4,
+      "icon": "🌍"
+    },
+    {
+      "id": "realm-grinder",
+      "title": "Realm Grinder",
+      "url": "https://www.kongregate.com/games/DivineGames/realm-grinder",
+      "description": "Incremental fantasy kingdom building",
+      "time": "30-∞ min",
+      "rating": 4,
+      "icon": "💎"
+    },
+    {
+      "id": "age-of-war",
+      "title": "Age of War",
+      "url": "https://www.crazygames.com/game/age-of-war",
+      "description": "Evolve through ages while defending your base",
+      "time": "20-45 min",
+      "rating": 4,
+      "icon": "⚔️"
+    },
+    {
+      "id": "plants-vs-zombies",
+      "title": "Plants vs Zombies",
+      "url": "https://www.crazygames.com/game/plants-vs-zombies",
+      "description": "Defend your lawn from zombie invasion",
+      "time": "25-60 min",
+      "rating": 5,
+      "icon": "🌻"
+    },
+    {
+      "id": "goodgame-empire",
+      "title": "Goodgame Empire",
+      "url": "https://empire.goodgamestudios.com/",
+      "description": "Build your medieval empire and conquer lands",
+      "time": "45-180 min",
+      "rating": 4,
+      "icon": "🏛️"
+    }
+  ],
+  "creative": [
+    {
+      "id": "skribbl-io",
+      "title": "Skribbl.io",
+      "url": "https://skribbl.io/",
+      "description": "Multiplayer drawing and guessing game",
+      "time": "15-45 min",
+      "rating": 5,
+      "icon": "🎨"
+    },
+    {
+      "id": "minecraft-classic",
+      "title": "Minecraft Classic",
+      "url": "https://classic.minecraft.net/",
+      "description": "Build anything you can imagine in blocks",
+      "time": "30-∞ min",
+      "rating": 5,
+      "icon": "🧱"
+    },
+    {
+      "id": "little-alchemy",
+      "title": "Little Alchemy",
+      "url": "https://littlealchemy.com/",
+      "description": "Combine elements to create new items",
+      "time": "20-120 min",
+      "rating": 4,
+      "icon": "🧪"
+    },
+    {
+      "id": "cookie-clicker-garden",
+      "title": "A Dark Room",
+      "url": "https://adarkroom.doublespeakgames.com/",
+      "description": "Text-based incremental adventure game",
+      "time": "60-300 min",
+      "rating": 4,
+      "icon": "🕯️"
+    },
+    {
+      "id": "draw-io",
+      "title": "Quick Draw",
+      "url": "https://quickdraw.withgoogle.com/",
+      "description": "Draw and let AI guess what you're drawing",
+      "time": "5-20 min",
+      "rating": 4,
+      "icon": "✏️"
+    },
+    {
+      "id": "falling-sand",
+      "title": "Falling Sand",
+      "url": "https://maxbittker.github.io/sandspiel/",
+      "description": "Physics sandbox with different materials",
+      "time": "10-60 min",
+      "rating": 4,
+      "icon": "🏖️"
+    },
+    {
+      "id": "townscaper",
+      "title": "Townscaper Online",
+      "url": "https://oskarstalberg.com/game/townscaper/",
+      "description": "Build charming island towns block by block",
+      "time": "15-90 min",
+      "rating": 4,
+      "icon": "🏘️"
+    },
+    {
+      "id": "picbreeder",
+      "title": "Silk Interactive",
+      "url": "http://weavesilk.com/",
+      "description": "Create beautiful flowing digital art",
+      "time": "5-30 min",
+      "rating": 4,
+      "icon": "🌸"
+    }
+  ],
+  "cards": [
+    {
+      "id": "hearts",
+      "title": "Hearts",
+      "url": "https://www.247hearts.com/",
+      "description": "Classic trick-taking card game",
+      "time": "15-30 min",
+      "rating": 4,
+      "icon": "💖"
+    },
+    {
+      "id": "spades",
+      "title": "Spades",
+      "url": "https://www.247spades.com/",
+      "description": "Partnership bidding card game",
+      "time": "20-40 min",
+      "rating": 4,
+      "icon": "♠️"
+    },
+    {
+      "id": "uno-online",
+      "title": "UNO Online",
+      "url": "https://www.crazygames.com/game/uno-online",
+      "description": "The classic color and number matching game",
+      "time": "10-25 min",
+      "rating": 4,
+      "icon": "🃏"
+    },
+    {
+      "id": "poker",
+      "title": "Texas Hold'em",
+      "url": "https://www.pokernow.club/",
+      "description": "Play poker with friends or AI",
+      "time": "20-120 min",
+      "rating": 4,
+      "icon": "🎰"
+    },
+    {
+      "id": "freecell",
+      "title": "FreeCell",
+      "url": "https://www.freecell.org/",
+      "description": "Strategic solitaire card game",
+      "time": "10-30 min",
+      "rating": 4,
+      "icon": "🂡"
+    },
+    {
+      "id": "blackjack",
+      "title": "Blackjack",
+      "url": "https://blackjack.org/blackjack-trainer/",
+      "description": "Beat the dealer to 21 without going over",
+      "time": "5-20 min",
+      "rating": 4,
+      "icon": "🃁"
+    },
+    {
+      "id": "checkers",
+      "title": "Checkers",
+      "url": "https://www.247checkers.com/",
+      "description": "Classic board game of strategy",
+      "time": "10-30 min",
+      "rating": 4,
+      "icon": "⚫"
+    },
+    {
+      "id": "cribbage",
+      "title": "Cribbage",
+      "url": "https://www.cribbage.org/",
+      "description": "Traditional pegging and counting card game",
+      "time": "15-35 min",
+      "rating": 3,
+      "icon": "🎯"
+    }
+  ],
+  "multiplayer": [
+    {
+      "id": "among-us-online",
+      "title": "Among Us Online",
+      "url": "https://www.crazygames.com/game/among-us-online",
+      "description": "Find the impostor among your crew",
+      "time": "10-20 min",
+      "rating": 5,
+      "icon": "👨‍🚀"
+    },
+    {
+      "id": "kahoot",
+      "title": "Kahoot!",
+      "url": "https://kahoot.com/",
+      "description": "Interactive quiz and trivia platform",
+      "time": "10-30 min",
+      "rating": 4,
+      "icon": "📚"
+    },
+    {
+      "id": "codenames",
+      "title": "Codenames Online",
+      "url": "https://codenames.game/",
+      "description": "Team-based word association game",
+      "time": "20-40 min",
+      "rating": 4,
+      "icon": "🕵️"
+    },
+    {
+      "id": "drawful",
+      "title": "Gartic Phone",
+      "url": "https://garticphone.com/",
+      "description": "Drawing telephone game with hilarious results",
+      "time": "15-30 min",
+      "rating": 4,
+      "icon": "📱"
+    },
+    {
+      "id": "trivia",
+      "title": "Trivia Crack",
+      "url": "https://www.triviacrack.com/",
+      "description": "Challenge friends with trivia questions",
+      "time": "10-25 min",
+      "rating": 4,
+      "icon": "🧠"
+    },
+    {
+      "id": "words-with-friends",
+      "title": "Wordscapes",
+      "url": "https://www.crazygames.com/game/wordscapes",
+      "description": "Connect letters to form words",
+      "time": "10-45 min",
+      "rating": 4,
+      "icon": "🔤"
+    },
+    {
+      "id": "jackbox-alternatives",
+      "title": "Psych!",
+      "url": "https://www.crazygames.com/game/psych",
+      "description": "Outwit friends with fake answers",
+      "time": "15-30 min",
+      "rating": 4,
+      "icon": "🃏"
+    },
+    {
+      "id": "fall-guys-knockoff",
+      "title": "Stumble Guys",
+      "url": "https://www.crazygames.com/game/stumble-guys",
+      "description": "Chaotic multiplayer obstacle course races",
+      "time": "5-15 min",
+      "rating": 4,
+      "icon": "🏃"
+    }
+  ]
+}
