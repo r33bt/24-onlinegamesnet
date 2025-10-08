@@ -1,0 +1,14 @@
+﻿{
+  "collectionName": "components_shared_tips",
+  "info": {
+    "displayName": "Tip"
+  },
+  "attributes": {
+    "icon": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    }
+  }
+}

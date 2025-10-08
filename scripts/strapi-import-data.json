@@ -1,0 +1,886 @@
+{
+  "categories": [
+    {
+      "name": "Quick Games",
+      "slug": "quick",
+      "description": "Perfect for short breaks! Lightning-fast games you can play in just 2-5 minutes.",
+      "icon": "⚡",
+      "gradient": "from-yellow-400 to-orange-400",
+      "featured_order": 0,
+      "tips": [
+        {
+          "icon": "🧠",
+          "text": "Perfect brain break to refresh your mind"
+        },
+        {
+          "icon": "⏰",
+          "text": "Fits perfectly into any schedule or routine"
+        },
+        {
+          "icon": "🎯",
+          "text": "Quick wins boost mood and productivity"
+        }
+      ]
+    },
+    {
+      "name": "Puzzle Games",
+      "slug": "puzzle",
+      "description": "Brain-teasing logic challenges that test your problem-solving skills.",
+      "icon": "🧩",
+      "gradient": "from-green-400 to-teal-400",
+      "featured_order": 1,
+      "tips": [
+        {
+          "icon": "🧠",
+          "text": "Enhance cognitive abilities and memory"
+        },
+        {
+          "icon": "🎯",
+          "text": "Improve problem-solving skills"
+        },
+        {
+          "icon": "😌",
+          "text": "Relaxing yet mentally stimulating"
+        }
+      ]
+    },
+    {
+      "name": "Action Games",
+      "slug": "action",
+      "description": "Fast-paced skill-based games that test your reflexes and coordination.",
+      "icon": "🎯",
+      "gradient": "from-red-400 to-orange-400",
+      "featured_order": 2,
+      "tips": [
+        {
+          "icon": "⚡",
+          "text": "Improve hand-eye coordination"
+        },
+        {
+          "icon": "🎯",
+          "text": "Enhance reaction time and reflexes"
+        },
+        {
+          "icon": "🔥",
+          "text": "Adrenaline-pumping excitement"
+        }
+      ]
+    },
+    {
+      "name": "Racing & Sports",
+      "slug": "racing",
+      "description": "High-speed competitive games and sports simulations.",
+      "icon": "🏎️",
+      "gradient": "from-orange-400 to-red-400",
+      "featured_order": 3,
+      "tips": [
+        {
+          "icon": "🏁",
+          "text": "Experience thrilling competition"
+        },
+        {
+          "icon": "🎮",
+          "text": "Master timing and precision"
+        },
+        {
+          "icon": "🏆",
+          "text": "Competitive gameplay elements"
+        }
+      ]
+    },
+    {
+      "name": "Strategy & RPG",
+      "slug": "strategy",
+      "description": "Strategic thinking games that challenge your planning and decision-making.",
+      "icon": "⚔️",
+      "gradient": "from-purple-400 to-purple-600",
+      "featured_order": 4,
+      "tips": [
+        {
+          "icon": "🧠",
+          "text": "Develop strategic thinking skills"
+        },
+        {
+          "icon": "📊",
+          "text": "Practice resource management"
+        },
+        {
+          "icon": "🎯",
+          "text": "Long-term planning and patience"
+        }
+      ]
+    },
+    {
+      "name": "Creative & Simulation",
+      "slug": "creative",
+      "description": "Creative and simulation games that let your imagination run wild.",
+      "icon": "🎨",
+      "gradient": "from-pink-400 to-pink-600",
+      "featured_order": 5,
+      "tips": [
+        {
+          "icon": "🎨",
+          "text": "Express creativity and imagination"
+        },
+        {
+          "icon": "🏗️",
+          "text": "Build and create virtual worlds"
+        },
+        {
+          "icon": "🌟",
+          "text": "Unlimited creative possibilities"
+        }
+      ]
+    },
+    {
+      "name": "Cards & Board",
+      "slug": "cards",
+      "description": "Classic card and board games with timeless appeal.",
+      "icon": "🃏",
+      "gradient": "from-blue-400 to-indigo-400",
+      "featured_order": 6,
+      "tips": [
+        {
+          "icon": "🎲",
+          "text": "Classic gameplay never goes out of style"
+        },
+        {
+          "icon": "🧠",
+          "text": "Strategic thinking and memory skills"
+        },
+        {
+          "icon": "🎯",
+          "text": "Perfect for casual gaming sessions"
+        }
+      ]
+    },
+    {
+      "name": "Multiplayer",
+      "slug": "multiplayer",
+      "description": "Party and social games perfect for playing with friends.",
+      "icon": "👥",
+      "gradient": "from-teal-400 to-teal-600",
+      "featured_order": 7,
+      "tips": [
+        {
+          "icon": "👨‍👩‍👧‍👦",
+          "text": "Perfect for social gaming sessions"
+        },
+        {
+          "icon": "🎉",
+          "text": "Create memorable moments with friends"
+        },
+        {
+          "icon": "🏆",
+          "text": "Competitive multiplayer action"
+        }
+      ]
+    }
+  ],
+  "games": [
+    {
+      "title": "2048",
+      "slug": "2048",
+      "url": "https://play2048.co/",
+      "description": "Addictive number puzzle - merge tiles to reach 2048!",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "🔢",
+      "featured": false,
+      "category": "quick"
+    },
+    {
+      "title": "Google Snake",
+      "slug": "snake",
+      "url": "https://www.google.com/fbx?fbx=snake_arcade",
+      "description": "Classic snake game with modern graphics",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🐍",
+      "featured": false,
+      "category": "quick"
+    },
+    {
+      "title": "Tetris",
+      "slug": "tetris",
+      "url": "https://tetris.com/play-tetris",
+      "description": "The legendary block-stacking puzzle game",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "🧩",
+      "featured": false,
+      "category": "quick"
+    },
+    {
+      "title": "Cookie Clicker",
+      "slug": "cookie-clicker",
+      "url": "https://orteil.dashnet.org/cookieclicker/",
+      "description": "Click cookies, buy upgrades, become cookie empire!",
+      "time_duration": "5 min-∞",
+      "rating": 4,
+      "icon": "🍪",
+      "featured": false,
+      "category": "quick"
+    },
+    {
+      "title": "Flappy Bird",
+      "slug": "flappy-bird",
+      "url": "https://flappybird.io/",
+      "description": "Tap to fly through pipes - simple yet impossible!",
+      "time_duration": "- min",
+      "rating": 3,
+      "icon": "🐦",
+      "featured": false,
+      "category": "quick"
+    },
+    {
+      "title": "Chrome Dino",
+      "slug": "dino-game",
+      "url": "https://chromedino.com/",
+      "description": "The famous offline Chrome dinosaur jumping game",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🦕",
+      "featured": false,
+      "category": "quick"
+    },
+    {
+      "title": "Pac-Man",
+      "slug": "pac-man",
+      "url": "https://www.google.com/doodles/30th-anniversary-of-pac-man",
+      "description": "The original dot-eating arcade legend",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "👻",
+      "featured": false,
+      "category": "quick"
+    },
+    {
+      "title": "Bubble Shooter",
+      "slug": "bubble-shooter",
+      "url": "https://bubble-shooter.co/",
+      "description": "Match 3 or more bubbles to clear the board",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🫧",
+      "featured": false,
+      "category": "quick"
+    },
+    {
+      "title": "Wordle",
+      "slug": "wordle",
+      "url": "https://www.nytimes.com/games/wordle/index.html",
+      "description": "Daily word puzzle that took the world by storm",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "📝",
+      "featured": false,
+      "category": "puzzle"
+    },
+    {
+      "title": "Sudoku",
+      "slug": "sudoku",
+      "url": "https://sudoku.com/",
+      "description": "Number logic puzzles from easy to expert",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🔢",
+      "featured": false,
+      "category": "puzzle"
+    },
+    {
+      "title": "Daily Crossword",
+      "slug": "crossword",
+      "url": "https://www.washingtonpost.com/crossword-puzzles/daily/",
+      "description": "Classic word crossword puzzles",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "📰",
+      "featured": false,
+      "category": "puzzle"
+    },
+    {
+      "title": "Jigsaw Puzzles",
+      "slug": "jigsaw",
+      "url": "https://www.jigsawpuzzles.io/",
+      "description": "Beautiful picture puzzles from 12 to 1000 pieces",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🧩",
+      "featured": false,
+      "category": "puzzle"
+    },
+    {
+      "title": "Solitaire",
+      "slug": "solitaire",
+      "url": "https://solitaired.com/",
+      "description": "Classic card game - Klondike solitaire",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "♠️",
+      "featured": false,
+      "category": "puzzle"
+    },
+    {
+      "title": "Mahjong",
+      "slug": "mahjong",
+      "url": "https://mahjong.org/",
+      "description": "Traditional tile-matching puzzle game",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🀄",
+      "featured": false,
+      "category": "puzzle"
+    },
+    {
+      "title": "Word Cookies",
+      "slug": "word-cookies",
+      "url": "https://wordcookies.org/",
+      "description": "Find hidden words from jumbled letters",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🍪",
+      "featured": false,
+      "category": "puzzle"
+    },
+    {
+      "title": "Connect 4",
+      "slug": "connect-4",
+      "url": "https://connect4.gamesolver.org/",
+      "description": "Drop discs and get 4 in a row to win",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🔴",
+      "featured": false,
+      "category": "puzzle"
+    },
+    {
+      "title": "Slither.io",
+      "slug": "slither-io",
+      "url": "https://slither.io/",
+      "description": "Multiplayer snake battle - grow and survive!",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "🐍",
+      "featured": false,
+      "category": "action"
+    },
+    {
+      "title": "Agar.io",
+      "slug": "agar-io",
+      "url": "https://agar.io/",
+      "description": "Eat cells, avoid bigger players, dominate!",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "⚫",
+      "featured": false,
+      "category": "action"
+    },
+    {
+      "title": "Paper.io",
+      "slug": "paper-io",
+      "url": "https://paper-io.com/",
+      "description": "Claim territory by drawing lines - watch your tail!",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "📄",
+      "featured": false,
+      "category": "action"
+    },
+    {
+      "title": "Shell Shockers",
+      "slug": "shell-shockers",
+      "url": "https://shellshock.io/",
+      "description": "Egg-based FPS shooter - crack your enemies!",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🥚",
+      "featured": false,
+      "category": "action"
+    },
+    {
+      "title": "Krunker.io",
+      "slug": "krunker-io",
+      "url": "https://krunker.io/",
+      "description": "Fast-paced browser FPS with pixelated graphics",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🔫",
+      "featured": false,
+      "category": "action"
+    },
+    {
+      "title": "ZombsRoyale.io",
+      "slug": "zombs-royale",
+      "url": "https://zombsroyale.io/",
+      "description": "Battle royale game - be the last one standing!",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "👑",
+      "featured": false,
+      "category": "action"
+    },
+    {
+      "title": "Surviv.io",
+      "slug": "surviv-io",
+      "url": "https://surviv.io/",
+      "description": "2D battle royale survival shooter",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🎯",
+      "featured": false,
+      "category": "action"
+    },
+    {
+      "title": "MooMoo.io",
+      "slug": "moomoo-io",
+      "url": "https://moomoo.io/",
+      "description": "Build and defend your village in this survival game",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🏘️",
+      "featured": false,
+      "category": "action"
+    },
+    {
+      "title": "Drift Hunters",
+      "slug": "drift-hunters",
+      "url": "https://www.crazygames.com/game/drift-hunters",
+      "description": "Master the art of drifting with realistic physics",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "🏎️",
+      "featured": false,
+      "category": "racing"
+    },
+    {
+      "title": "Moto X3M",
+      "slug": "moto-x3m",
+      "url": "https://motox3m.co/",
+      "description": "Extreme motorbike racing with crazy stunts",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🏍️",
+      "featured": false,
+      "category": "racing"
+    },
+    {
+      "title": "Hill Climb Racing",
+      "slug": "hill-climb-racing",
+      "url": "https://www.crazygames.com/game/hill-climb-racing",
+      "description": "Physics-based driving in extreme terrains",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🚙",
+      "featured": false,
+      "category": "racing"
+    },
+    {
+      "title": "Basketball Stars",
+      "slug": "basketball-stars",
+      "url": "https://www.crazygames.com/game/basketball-stars",
+      "description": "1v1 basketball showdowns with special moves",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🏀",
+      "featured": false,
+      "category": "racing"
+    },
+    {
+      "title": "Soccer Physics",
+      "slug": "soccer-physics",
+      "url": "https://www.crazygames.com/game/soccer-physics",
+      "description": "Hilarious physics-based soccer mayhem",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "⚽",
+      "featured": false,
+      "category": "racing"
+    },
+    {
+      "title": "Tunnel Rush",
+      "slug": "tunnel-rush",
+      "url": "https://www.crazygames.com/game/tunnel-rush",
+      "description": "High-speed obstacle dodging in neon tunnels",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🌈",
+      "featured": false,
+      "category": "racing"
+    },
+    {
+      "title": "Slope",
+      "slug": "slope",
+      "url": "https://slope-game.github.io/",
+      "description": "Control a ball rolling down a steep slope",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🎱",
+      "featured": false,
+      "category": "racing"
+    },
+    {
+      "title": "Rocket Soccer Derby",
+      "slug": "rocket-league",
+      "url": "https://www.crazygames.com/game/rocket-soccer-derby",
+      "description": "Cars meet soccer in this explosive sports game",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🚗",
+      "featured": false,
+      "category": "racing"
+    },
+    {
+      "title": "Bloons TD 6",
+      "slug": "bloons-td",
+      "url": "https://www.crazygames.com/game/bloons-tower-defense-4",
+      "description": "Pop balloons with strategic tower placement",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "🎈",
+      "featured": false,
+      "category": "strategy"
+    },
+    {
+      "title": "Kingdom Rush",
+      "slug": "kingdom-rush",
+      "url": "https://www.crazygames.com/game/kingdom-rush",
+      "description": "Epic fantasy tower defense with heroes",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "🏰",
+      "featured": false,
+      "category": "strategy"
+    },
+    {
+      "title": "Chess.com",
+      "slug": "chess-com",
+      "url": "https://www.chess.com/play",
+      "description": "Play chess against AI or other players",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "♟️",
+      "featured": false,
+      "category": "strategy"
+    },
+    {
+      "title": "Freeciv",
+      "slug": "civilization",
+      "url": "https://www.freecivweb.org/",
+      "description": "Build civilizations and conquer the world",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🌍",
+      "featured": false,
+      "category": "strategy"
+    },
+    {
+      "title": "Realm Grinder",
+      "slug": "realm-grinder",
+      "url": "https://www.kongregate.com/games/DivineGames/realm-grinder",
+      "description": "Incremental fantasy kingdom building",
+      "time_duration": "30-∞ min",
+      "rating": 4,
+      "icon": "💎",
+      "featured": false,
+      "category": "strategy"
+    },
+    {
+      "title": "Age of War",
+      "slug": "age-of-war",
+      "url": "https://www.crazygames.com/game/age-of-war",
+      "description": "Evolve through ages while defending your base",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "⚔️",
+      "featured": false,
+      "category": "strategy"
+    },
+    {
+      "title": "Plants vs Zombies",
+      "slug": "plants-vs-zombies",
+      "url": "https://www.crazygames.com/game/plants-vs-zombies",
+      "description": "Defend your lawn from zombie invasion",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "🌻",
+      "featured": false,
+      "category": "strategy"
+    },
+    {
+      "title": "Goodgame Empire",
+      "slug": "goodgame-empire",
+      "url": "https://empire.goodgamestudios.com/",
+      "description": "Build your medieval empire and conquer lands",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🏛️",
+      "featured": false,
+      "category": "strategy"
+    },
+    {
+      "title": "Skribbl.io",
+      "slug": "skribbl-io",
+      "url": "https://skribbl.io/",
+      "description": "Multiplayer drawing and guessing game",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "🎨",
+      "featured": false,
+      "category": "creative"
+    },
+    {
+      "title": "Minecraft Classic",
+      "slug": "minecraft-classic",
+      "url": "https://classic.minecraft.net/",
+      "description": "Build anything you can imagine in blocks",
+      "time_duration": "30-∞ min",
+      "rating": 5,
+      "icon": "🧱",
+      "featured": false,
+      "category": "creative"
+    },
+    {
+      "title": "Little Alchemy",
+      "slug": "little-alchemy",
+      "url": "https://littlealchemy.com/",
+      "description": "Combine elements to create new items",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🧪",
+      "featured": false,
+      "category": "creative"
+    },
+    {
+      "title": "A Dark Room",
+      "slug": "cookie-clicker-garden",
+      "url": "https://adarkroom.doublespeakgames.com/",
+      "description": "Text-based incremental adventure game",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🕯️",
+      "featured": false,
+      "category": "creative"
+    },
+    {
+      "title": "Quick Draw",
+      "slug": "draw-io",
+      "url": "https://quickdraw.withgoogle.com/",
+      "description": "Draw and let AI guess what you're drawing",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "✏️",
+      "featured": false,
+      "category": "creative"
+    },
+    {
+      "title": "Falling Sand",
+      "slug": "falling-sand",
+      "url": "https://maxbittker.github.io/sandspiel/",
+      "description": "Physics sandbox with different materials",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🏖️",
+      "featured": false,
+      "category": "creative"
+    },
+    {
+      "title": "Townscaper Online",
+      "slug": "townscaper",
+      "url": "https://oskarstalberg.com/game/townscaper/",
+      "description": "Build charming island towns block by block",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🏘️",
+      "featured": false,
+      "category": "creative"
+    },
+    {
+      "title": "Silk Interactive",
+      "slug": "picbreeder",
+      "url": "http://weavesilk.com/",
+      "description": "Create beautiful flowing digital art",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🌸",
+      "featured": false,
+      "category": "creative"
+    },
+    {
+      "title": "Hearts",
+      "slug": "hearts",
+      "url": "https://www.247hearts.com/",
+      "description": "Classic trick-taking card game",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "💖",
+      "featured": false,
+      "category": "cards"
+    },
+    {
+      "title": "Spades",
+      "slug": "spades",
+      "url": "https://www.247spades.com/",
+      "description": "Partnership bidding card game",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "♠️",
+      "featured": false,
+      "category": "cards"
+    },
+    {
+      "title": "UNO Online",
+      "slug": "uno-online",
+      "url": "https://www.crazygames.com/game/uno-online",
+      "description": "The classic color and number matching game",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🃏",
+      "featured": false,
+      "category": "cards"
+    },
+    {
+      "title": "Texas Hold'em",
+      "slug": "poker",
+      "url": "https://www.pokernow.club/",
+      "description": "Play poker with friends or AI",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🎰",
+      "featured": false,
+      "category": "cards"
+    },
+    {
+      "title": "FreeCell",
+      "slug": "freecell",
+      "url": "https://www.freecell.org/",
+      "description": "Strategic solitaire card game",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🂡",
+      "featured": false,
+      "category": "cards"
+    },
+    {
+      "title": "Blackjack",
+      "slug": "blackjack",
+      "url": "https://blackjack.org/blackjack-trainer/",
+      "description": "Beat the dealer to 21 without going over",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🃁",
+      "featured": false,
+      "category": "cards"
+    },
+    {
+      "title": "Checkers",
+      "slug": "checkers",
+      "url": "https://www.247checkers.com/",
+      "description": "Classic board game of strategy",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "⚫",
+      "featured": false,
+      "category": "cards"
+    },
+    {
+      "title": "Cribbage",
+      "slug": "cribbage",
+      "url": "https://www.cribbage.org/",
+      "description": "Traditional pegging and counting card game",
+      "time_duration": "- min",
+      "rating": 3,
+      "icon": "🎯",
+      "featured": false,
+      "category": "cards"
+    },
+    {
+      "title": "Among Us Online",
+      "slug": "among-us-online",
+      "url": "https://www.crazygames.com/game/among-us-online",
+      "description": "Find the impostor among your crew",
+      "time_duration": "- min",
+      "rating": 5,
+      "icon": "👨‍🚀",
+      "featured": false,
+      "category": "multiplayer"
+    },
+    {
+      "title": "Kahoot!",
+      "slug": "kahoot",
+      "url": "https://kahoot.com/",
+      "description": "Interactive quiz and trivia platform",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "📚",
+      "featured": false,
+      "category": "multiplayer"
+    },
+    {
+      "title": "Codenames Online",
+      "slug": "codenames",
+      "url": "https://codenames.game/",
+      "description": "Team-based word association game",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🕵️",
+      "featured": false,
+      "category": "multiplayer"
+    },
+    {
+      "title": "Gartic Phone",
+      "slug": "drawful",
+      "url": "https://garticphone.com/",
+      "description": "Drawing telephone game with hilarious results",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "📱",
+      "featured": false,
+      "category": "multiplayer"
+    },
+    {
+      "title": "Trivia Crack",
+      "slug": "trivia",
+      "url": "https://www.triviacrack.com/",
+      "description": "Challenge friends with trivia questions",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🧠",
+      "featured": false,
+      "category": "multiplayer"
+    },
+    {
+      "title": "Wordscapes",
+      "slug": "words-with-friends",
+      "url": "https://www.crazygames.com/game/wordscapes",
+      "description": "Connect letters to form words",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🔤",
+      "featured": false,
+      "category": "multiplayer"
+    },
+    {
+      "title": "Psych!",
+      "slug": "jackbox-alternatives",
+      "url": "https://www.crazygames.com/game/psych",
+      "description": "Outwit friends with fake answers",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🃏",
+      "featured": false,
+      "category": "multiplayer"
+    },
+    {
+      "title": "Stumble Guys",
+      "slug": "fall-guys-knockoff",
+      "url": "https://www.crazygames.com/game/stumble-guys",
+      "description": "Chaotic multiplayer obstacle course races",
+      "time_duration": "- min",
+      "rating": 4,
+      "icon": "🏃",
+      "featured": false,
+      "category": "multiplayer"
+    }
+  ]
+}
